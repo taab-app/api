@@ -1,6 +1,6 @@
 {
   "name": "@taab-app/api",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "Set of utilities to streamline building Taab extensions",
   "author": "Taab",
   "main": "dist/index.js",
