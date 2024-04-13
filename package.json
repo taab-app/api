@@ -1,6 +1,6 @@
 {
   "name": "@taab-app/api",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "Set of utilities to streamline building Taab extensions",
   "author": "Taab",
   "main": "dist/index.js",
@@ -14,9 +14,6 @@
     "dev": "tsc --watch",
     "test": "npm run lint",
     "prepublishOnly": "npm run build && npm test"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
   },
   "license": "MIT",
   "peerDependencies": {
